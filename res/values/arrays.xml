@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="toppings_imgs">
+        <item>@drawable/sprinkles</item>
+        <item>@drawable/chocolate_chips</item>
+        <item>@drawable/mini_marshmellows</item>
+        <item>@drawable/oreo_bits</item>
+        <item>@drawable/twix_bits</item>
+        <item>@drawable/mms</item>
+        <item>@drawable/reeses_pieces</item>
+        <item>@drawable/butterfinger_bits</item>
+        <item>@drawable/snicker_bits</item>
+        <item>@drawable/skittles</item>
+        <item>@drawable/craisins</item>
+        <item>@drawable/cherries</item>
+        <item>@drawable/gummy_bears</item>
+        <item>@drawable/pop_rocks</item>
+    </array>
+</resources>

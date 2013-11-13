@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Custom Cupcake</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="flavors_prompt">Banana</string>
+    <string-array name="cupcake_flavors">
+        <item>Banana</item>
+        <item>Carrot</item>
+        <item>Chocoloate</item>
+        <item>Coconut</item>
+        <item>Cranberry</item>
+        <item>Dark Chocoloate</item>
+        <item>Grape</item>
+        <item>Kiwi</item>
+        <item>Lemon</item>
+        <item>Milk Chocolate</item>
+        <item>Orange Peel</item>
+        <item>Pineapple</item>
+        <item>Red Velvet</item>
+        <item>Vanilla</item>
+    </string-array>
+    
+    <string-array name="cupcake_frostings">
+        <item>Vanilla</item>
+        <item>Chocolate</item>
+        <item>Creme Cheese</item>
+        <item>Lemon</item>
+        <item>Honey &amp; Rosemary</item>
+        <item>Vegan Vanilla</item>
+        <item>Vanilla Rose</item>
+        <item>Buttered Popcorn</item>
+        <item>Cinnamon Toast</item>
+        <item>Blueberry Cheesecake</item>
+        <item>Chai Latte</item>
+        <item>Strawberry Creme</item>
+    </string-array>
+    
+    <string name="quantity">Quantity</string>
+    <string name="done">Done</string>
+    
+    <string name="vanilla">Vanilla</string>
+    <string name="fudge">Fudge</string>
+    <string name="raspberry">Raspberry</string>
+    
+    <string name="cupcakeFlavor">Cupcake Flavor</string>
+    <string name="cupcakeFilling">Filling</string>
+    <string name="cupcakeFrosting">Frosting</string>
+    <string name="pickToppings">Pick Toppings</string>
+    <string name="toppings">Toppings</string>
+    <string name="selectQuantity">Select Quantity</string>
+    <string name="order">Order</string>
+
+    <string-array name="toppings">
+        <item>Sprinkles</item>
+        <item>Mini Chocolate Chips</item>
+        <item>Mini Marshmellows</item>
+        <item>Oreo Bits</item>
+        <item>Twix Bits</item>
+        <item>M&amp;M\'s</item>
+        <item>Reese\'s Pieces</item>
+        <item>Butterfinger Bits</item>
+        <item>Snicker Bits</item>
+        <item>Skittles</item>
+        <item>Craisins</item>
+        <item>Maraschno Cherries</item>
+        <item>Gummy Bears</item>
+        <item>Pop Rocks</item>
+    </string-array>
+
+</resources>
